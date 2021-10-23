@@ -2,14 +2,15 @@
 
 * ### I'm a CS Sophomore at NIT Bhopal
 * ### Currently I'm working on my Frontend web development skills
-* ### I also enjoy Competitive programming  
+* ### I also enjoy Problem solving and Competitive programming
 
 <br /> 
 
 ## To know more about me 😄
+* ### [My Webpage](https://ishanmujumdar.netlify.app/)
 * ### [LinkedIn](https://www.linkedin.com/in/ishan-mujumdar-6955981bb/)
-* ### [Github](https://www.linkedin.com/in/ishan-mujumdar-6955981bb/)
-* ### [Web Resume](https://www.linkedin.com/in/ishan-mujumdar-6955981bb/)
+
+### Feel free to reach out! 👆
 
 <br />
 
