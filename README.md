@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hey, I'm Ishan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**ishanmjr/ishanmjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* ### I'm a CS Sophomore at NIT Bhopal
+* ### Currently I'm working on my Frontend web development skills
+* ### I also enjoy Competitive programming  
 
-Here are some ideas to get you started:
+<br /> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## To know more about me 😄
+* ### [LinkedIn](https://www.linkedin.com/in/ishan-mujumdar-6955981bb/)
+* ### [Github](https://www.linkedin.com/in/ishan-mujumdar-6955981bb/)
+* ### [Web Resume](https://www.linkedin.com/in/ishan-mujumdar-6955981bb/)
+
+<br />
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ishanmjr&show_icons=true&theme=buefy)](https://github.com/ishanmjr/github-readme-stats)
